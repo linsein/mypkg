@@ -1,0 +1,132 @@
+{
+  "version": 2,
+  "data": {
+    "cinny": {
+      "version": "4.10.0",
+      "gitref": "refs/tags/v4.10.0",
+      "url": "https://github.com/cinnyapp/cinny/releases/tag/v4.10.0"
+    },
+    "fcitx5-anthy": {
+      "version": "5.1.7",
+      "gitref": "refs/tags/5.1.7",
+      "revision": "5b6d7cf964ce8f40042395eb125192010d3bb04e",
+      "url": "https://github.com/fcitx/fcitx5-anthy/releases/tag/5.1.7"
+    },
+    "fcitx5-bamboo": {
+      "version": "1.0.8",
+      "gitref": "refs/tags/1.0.8",
+      "revision": "ecccfd668218e4e7a3ca31e636189a663817b1fb",
+      "url": "https://github.com/fcitx/fcitx5-bamboo/releases/tag/1.0.8"
+    },
+    "fcitx5-chewing": {
+      "version": "5.1.8",
+      "gitref": "refs/tags/5.1.8",
+      "revision": "da8094d2101ceba1595f23741261e610cbb49cef",
+      "url": "https://github.com/fcitx/fcitx5-chewing/releases/tag/5.1.8"
+    },
+    "fcitx5-chinese-addons": {
+      "version": "5.1.9",
+      "gitref": "refs/tags/5.1.9",
+      "revision": "72c0f333f4ab35304ac0eff5c11c65c383e8ed4a",
+      "url": "https://github.com/fcitx/fcitx5-chinese-addons/releases/tag/5.1.9"
+    },
+    "fcitx5-configtool": {
+      "version": "5.1.10",
+      "gitref": "refs/tags/5.1.10",
+      "revision": "b9b2e3bdb3b73020d8197639c266ff206b12f45c",
+      "url": "https://github.com/fcitx/fcitx5-configtool/releases/tag/5.1.10"
+    },
+    "fcitx5-gtk": {
+      "version": "5.1.4",
+      "gitref": "refs/tags/5.1.4",
+      "revision": "657a8b5cb51e8317e8aaa22c52e526e142f5e96a",
+      "url": "https://github.com/fcitx/fcitx5-gtk/releases/tag/5.1.4"
+    },
+    "fcitx5-hangul": {
+      "version": "5.1.7",
+      "gitref": "refs/tags/5.1.7",
+      "revision": "a75d871f571359d98d0383caaf02e24f56846170",
+      "url": "https://github.com/fcitx/fcitx5-hangul/releases/tag/5.1.7"
+    },
+    "fcitx5-kkc": {
+      "version": "5.1.7",
+      "gitref": "refs/tags/5.1.7",
+      "revision": "73624dfd4262143396b52f86ea652a11ca98165a",
+      "url": "https://github.com/fcitx/fcitx5-kkc/releases/tag/5.1.7"
+    },
+    "fcitx5-lua": {
+      "version": "5.0.15",
+      "gitref": "refs/tags/5.0.15",
+      "revision": "0e9bf24b84c63cd73d4669b5df4214545ae9a8c0",
+      "url": "https://github.com/fcitx/fcitx5-lua/releases/tag/5.0.15"
+    },
+    "fcitx5-m17n": {
+      "version": "5.1.4",
+      "gitref": "refs/tags/5.1.4",
+      "revision": "6f7ccaf0eea61f614959e4cd37834f06ea49c8cc",
+      "url": "https://github.com/fcitx/fcitx5-m17n/releases/tag/5.1.4"
+    },
+    "fcitx5-qt": {
+      "version": "5.1.10",
+      "gitref": "refs/tags/5.1.10",
+      "revision": "c5e63ba8131f17c9d2bb0f21b3dea80a871e7e18",
+      "url": "https://github.com/fcitx/fcitx5-qt/releases/tag/5.1.10"
+    },
+    "fcitx5-rime": {
+      "version": "5.1.11",
+      "gitref": "refs/tags/5.1.11",
+      "revision": "b61205b09473923d7f0e663a513a232fa155c544",
+      "url": "https://github.com/fcitx/fcitx5-rime/releases/tag/5.1.11"
+    },
+    "fcitx5-table-extra": {
+      "version": "5.1.8",
+      "gitref": "refs/tags/5.1.8",
+      "revision": "7cf9f7c0c99b8286a9a98b43cae6e413b8291c11",
+      "url": "https://github.com/fcitx/fcitx5-table-extra/releases/tag/5.1.8"
+    },
+    "fcitx5-table-other": {
+      "version": "5.1.5",
+      "gitref": "refs/tags/5.1.5",
+      "revision": "e96521eb24ec9a163822f6710342542a85cc1408",
+      "url": "https://github.com/fcitx/fcitx5-table-other/releases/tag/5.1.5"
+    },
+    "fcitx5-unikey": {
+      "version": "5.1.7",
+      "gitref": "refs/tags/5.1.7",
+      "revision": "75879c322c92d9967199bdc705afd145ac5d5636",
+      "url": "https://github.com/fcitx/fcitx5-unikey/releases/tag/5.1.7"
+    },
+    "ibus-libpinyin": {
+      "version": "1.16.4",
+      "gitref": "refs/tags/1.16.4",
+      "url": "https://github.com/libpinyin/ibus-libpinyin/releases/tag/1.16.4"
+    },
+    "openvswitch": {
+      "version": "3.3.6",
+      "gitref": "refs/tags/v3.3.6",
+      "revision": "d9f1aa948738e4e1fd717398393b16b52e620a8d",
+      "url": "https://github.com/openvswitch/ovs/releases/tag/v3.3.6"
+    },
+    "py3-telethon": {
+      "version": "1.41.1",
+      "gitref": "refs/tags/v1.41.1",
+      "revision": "ba201b9189bc4d55fa6aa22a9849932210846ccc",
+      "url": "https://github.com/LonamiWebs/Telethon/releases/tag/v1.41.1"
+    },
+    "readeck": {
+      "version": "0.20.2",
+      "revision": "f995a1af37b45a148c03b2e12c152ecfaf7eb135",
+      "url": "https://codeberg.org/readeck/readeck/releases/tag/0.20.2"
+    },
+    "sing-box": {
+      "version": "1.12.8",
+      "gitref": "refs/tags/v1.12.8",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.12.8"
+    },
+    "v2ray": {
+      "version": "5.38.0",
+      "gitref": "refs/tags/v5.38.0",
+      "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.38.0"
+    }
+  }
+}
