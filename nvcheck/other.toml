@@ -1,0 +1,39 @@
+[cinny]
+source="github"
+github='cinnyapp/cinny'
+use_latest_release=true
+prefix='v'
+exclude_regex = ".*(dev|rc|RC|alpha|beta).*"
+
+[py3-telethon]
+source="github"
+github="LonamiWebs/Telethon"
+use_latest_tag=true
+prefix='v'
+exclude_regex = ".*(dev|rc|RC|alpha|beta|stable).*"
+
+[sing-box]
+source="github"
+github="SagerNet/sing-box"
+use_latest_release=true
+prefix='v'
+exclude_regex = ".*(dev|rc|RC|alpha|beta).*"
+
+[v2ray]
+source="github"
+github="v2fly/v2ray-core"
+use_latest_release=true
+prefix='v'
+
+[readeck]
+source="gitea"
+host="codeberg.org"
+gitea="readeck/readeck"
+use_max_tag=true
+
+[openvswitch]
+source="github"
+github="openvswitch/ovs"
+use_max_tag=true
+include_regex="v3\\.3\\..*"
+prefix='v'
