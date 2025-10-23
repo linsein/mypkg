@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "cinny": {
-      "version": "4.10.0",
-      "gitref": "refs/tags/v4.10.0",
-      "url": "https://github.com/cinnyapp/cinny/releases/tag/v4.10.0"
+      "version": "4.10.1",
+      "gitref": "refs/tags/v4.10.1",
+      "url": "https://github.com/cinnyapp/cinny/releases/tag/v4.10.1"
     },
     "fcitx5-anthy": {
       "version": "5.1.7",
@@ -97,9 +97,9 @@
       "url": "https://github.com/fcitx/fcitx5-unikey/releases/tag/5.1.7"
     },
     "ibus-libpinyin": {
-      "version": "1.16.4",
-      "gitref": "refs/tags/1.16.4",
-      "url": "https://github.com/libpinyin/ibus-libpinyin/releases/tag/1.16.4"
+      "version": "1.16.5",
+      "gitref": "refs/tags/1.16.5",
+      "url": "https://github.com/libpinyin/ibus-libpinyin/releases/tag/1.16.5"
     },
     "openvswitch": {
       "version": "3.3.6",
@@ -114,19 +114,19 @@
       "url": "https://github.com/LonamiWebs/Telethon/releases/tag/v1.41.1"
     },
     "readeck": {
-      "version": "0.20.3",
-      "revision": "20737ae7aa3903f5ab4d3d0e184a6004146edee6",
-      "url": "https://codeberg.org/readeck/readeck/releases/tag/0.20.3"
+      "version": "0.20.4",
+      "revision": "b0503446d1711f81ca00e5e6b4c8f9dfe124188c",
+      "url": "https://codeberg.org/readeck/readeck/releases/tag/0.20.4"
     },
     "sing-box": {
-      "version": "1.12.8",
-      "gitref": "refs/tags/v1.12.8",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.12.8"
+      "version": "1.12.11",
+      "gitref": "refs/tags/v1.12.11",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.12.11"
     },
     "v2ray": {
-      "version": "5.38.0",
-      "gitref": "refs/tags/v5.38.0",
-      "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.38.0"
+      "version": "5.41.0",
+      "gitref": "refs/tags/v5.41.0",
+      "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.41.0"
     }
   }
 }
