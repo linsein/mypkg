@@ -40,7 +40,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          if [[ `git status --porcelain` ]]; then
+          if [[ "x$(git status --porcelain)" != "x" ]]; then
             git add old_ver.json new_ver.json
             git remote add github https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{github.repository}}
             git commit -m "Update package list"
