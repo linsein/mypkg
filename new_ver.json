@@ -27,7 +27,7 @@
     "fcitx5-chinese-addons": {
       "version": "5.1.10",
       "gitref": "refs/tags/5.1.10",
-      "revision": "54ac251acec41ed02d758f04f4e956011f2bd507",
+      "revision": "303f954a8772b40ca686673f6efaddd3967315dd",
       "url": "https://github.com/fcitx/fcitx5-chinese-addons/releases/tag/5.1.10"
     },
     "fcitx5-configtool": {
