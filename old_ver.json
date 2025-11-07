@@ -108,10 +108,10 @@
       "url": "https://github.com/openvswitch/ovs/releases/tag/v3.3.6"
     },
     "py3-telethon": {
-      "version": "1.41.1",
-      "gitref": "refs/tags/v1.41.1",
-      "revision": "ba201b9189bc4d55fa6aa22a9849932210846ccc",
-      "url": "https://github.com/LonamiWebs/Telethon/releases/tag/v1.41.1"
+      "version": "1.42.0",
+      "gitref": "refs/tags/v1.42.0",
+      "revision": "afe900f45d74221df03e7fe6f176a1472f16afb4",
+      "url": "https://github.com/LonamiWebs/Telethon/releases/tag/v1.42.0"
     },
     "readeck": {
       "version": "0.20.4",
