@@ -102,10 +102,10 @@
       "url": "https://github.com/libpinyin/ibus-libpinyin/releases/tag/1.16.5"
     },
     "openvswitch": {
-      "version": "3.3.6",
-      "gitref": "refs/tags/v3.3.6",
-      "revision": "d9f1aa948738e4e1fd717398393b16b52e620a8d",
-      "url": "https://github.com/openvswitch/ovs/releases/tag/v3.3.6"
+      "version": "3.3.7",
+      "gitref": "refs/tags/v3.3.7",
+      "revision": "ef8e2fd8aae010d45f06afb43269b9ad3ddf65b6",
+      "url": "https://github.com/openvswitch/ovs/releases/tag/v3.3.7"
     },
     "py3-telethon": {
       "version": "1.42.0",
