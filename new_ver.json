@@ -114,9 +114,9 @@
       "url": "https://github.com/LonamiWebs/Telethon/releases/tag/v1.42.0"
     },
     "readeck": {
-      "version": "0.21.0",
-      "revision": "0f070e372ebf9ddfd56c23a150df23945c6a2c00",
-      "url": "https://codeberg.org/readeck/readeck/releases/tag/0.21.0"
+      "version": "0.21.1",
+      "revision": "0e85352d59d49d105f505aba357eed35e0ebc451",
+      "url": "https://codeberg.org/readeck/readeck/releases/tag/0.21.1"
     },
     "sing-box": {
       "version": "1.12.12",
