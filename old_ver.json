@@ -124,9 +124,9 @@
       "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.12.16"
     },
     "v2ray": {
-      "version": "5.42.0",
-      "gitref": "refs/tags/v5.42.0",
-      "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.42.0"
+      "version": "5.43.0",
+      "gitref": "refs/tags/v5.43.0",
+      "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.43.0"
     }
   }
 }
