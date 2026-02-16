@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "cinny": {
-      "version": "4.10.2",
-      "gitref": "refs/tags/v4.10.2",
-      "url": "https://github.com/cinnyapp/cinny/releases/tag/v4.10.2"
+      "version": "4.10.3",
+      "gitref": "refs/tags/v4.10.3",
+      "url": "https://github.com/cinnyapp/cinny/releases/tag/v4.10.3"
     },
     "fcitx5-anthy": {
       "version": "5.1.9",
