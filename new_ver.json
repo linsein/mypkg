@@ -119,9 +119,9 @@
       "url": "https://codeberg.org/readeck/readeck/releases/tag/0.22.3"
     },
     "sing-box": {
-      "version": "1.13.10",
-      "gitref": "refs/tags/v1.13.10",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.13.10"
+      "version": "1.13.11",
+      "gitref": "refs/tags/v1.13.11",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.13.11"
     },
     "v2ray": {
       "version": "5.48.0",
