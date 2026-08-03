@@ -119,14 +119,14 @@
       "url": "https://codeberg.org/readeck/readeck/releases/tag/0.22.3"
     },
     "sing-box": {
-      "version": "1.13.15",
-      "gitref": "refs/tags/v1.13.15",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.13.15"
+      "version": "1.13.16",
+      "gitref": "refs/tags/v1.13.16",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.13.16"
     },
     "v2ray": {
-      "version": "5.51.2",
-      "gitref": "refs/tags/v5.51.2",
-      "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.51.2"
+      "version": "5.52.0",
+      "gitref": "refs/tags/v5.52.0",
+      "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.52.0"
     }
   }
 }
