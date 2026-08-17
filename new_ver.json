@@ -113,15 +113,10 @@
       "revision": "afe900f45d74221df03e7fe6f176a1472f16afb4",
       "url": "https://github.com/LonamiWebs/Telethon/releases/tag/v1.42.0"
     },
-    "readeck": {
-      "version": "0.23.0",
-      "revision": "d639cbc747b3763810ccc26994287905ac421fdc",
-      "url": "https://codeberg.org/readeck/readeck/releases/tag/0.23.0"
-    },
     "sing-box": {
-      "version": "1.13.18",
-      "gitref": "refs/tags/v1.13.18",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.13.18"
+      "version": "1.13.19",
+      "gitref": "refs/tags/v1.13.19",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.13.19"
     },
     "v2ray": {
       "version": "5.52.0",
