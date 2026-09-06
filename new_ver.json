@@ -7,34 +7,34 @@
       "url": "https://github.com/cinnyapp/cinny/releases/tag/v4.12.6"
     },
     "fcitx5-anthy": {
-      "version": "5.1.10",
-      "gitref": "refs/tags/5.1.10",
-      "revision": "056a2224f11f9f5fbd1080943a38199ad08d6542",
-      "url": "https://github.com/fcitx/fcitx5-anthy/releases/tag/5.1.10"
+      "version": "5.1.11",
+      "gitref": "refs/tags/5.1.11",
+      "revision": "76262fffb04b36a628c931cb8cb2c272920be8bb",
+      "url": "https://github.com/fcitx/fcitx5-anthy/releases/tag/5.1.11"
     },
     "fcitx5-bamboo": {
-      "version": "1.0.10",
-      "gitref": "refs/tags/1.0.10",
-      "revision": "bd8631bd49c4279d8e69b5de9299ac687ce9b43b",
-      "url": "https://github.com/fcitx/fcitx5-bamboo/releases/tag/1.0.10"
+      "version": "1.0.11",
+      "gitref": "refs/tags/1.0.11",
+      "revision": "161ac10b1ff451525ca78fe523a599e5bbfff148",
+      "url": "https://github.com/fcitx/fcitx5-bamboo/releases/tag/1.0.11"
     },
     "fcitx5-chewing": {
-      "version": "5.1.12",
-      "gitref": "refs/tags/5.1.12",
-      "revision": "8aa494168dcb54d318b48b213252207aeff9a21c",
-      "url": "https://github.com/fcitx/fcitx5-chewing/releases/tag/5.1.12"
-    },
-    "fcitx5-chinese-addons": {
       "version": "5.1.13",
       "gitref": "refs/tags/5.1.13",
-      "revision": "334f30f9f4738c69f4a0eccbbdb7362a7d7497ba",
-      "url": "https://github.com/fcitx/fcitx5-chinese-addons/releases/tag/5.1.13"
+      "revision": "728e3f036447c52eaa6d819cefda814b275f949c",
+      "url": "https://github.com/fcitx/fcitx5-chewing/releases/tag/5.1.13"
     },
-    "fcitx5-configtool": {
+    "fcitx5-chinese-addons": {
       "version": "5.1.14",
       "gitref": "refs/tags/5.1.14",
-      "revision": "85524aceff56305ad6237d4d5d2adfb919ce7887",
-      "url": "https://github.com/fcitx/fcitx5-configtool/releases/tag/5.1.14"
+      "revision": "93b81c1b88973ffa0d8f9419861245643bbe8cad",
+      "url": "https://github.com/fcitx/fcitx5-chinese-addons/releases/tag/5.1.14"
+    },
+    "fcitx5-configtool": {
+      "version": "5.1.15",
+      "gitref": "refs/tags/5.1.15",
+      "revision": "9ae6d0503b3855dd8b31a1fbc121917b1921cf43",
+      "url": "https://github.com/fcitx/fcitx5-configtool/releases/tag/5.1.15"
     },
     "fcitx5-gtk": {
       "version": "5.1.7",
@@ -43,58 +43,58 @@
       "url": "https://github.com/fcitx/fcitx5-gtk/releases/tag/5.1.7"
     },
     "fcitx5-hangul": {
-      "version": "5.1.10",
-      "gitref": "refs/tags/5.1.10",
-      "revision": "8205b46472bfc6af0603e5ac126394844bf8d8a5",
-      "url": "https://github.com/fcitx/fcitx5-hangul/releases/tag/5.1.10"
-    },
-    "fcitx5-kkc": {
-      "version": "5.1.10",
-      "gitref": "refs/tags/5.1.10",
-      "revision": "e7ea362502af71abc6432ec3f23b9b3b9adf0b82",
-      "url": "https://github.com/fcitx/fcitx5-kkc/releases/tag/5.1.10"
-    },
-    "fcitx5-lua": {
-      "version": "5.0.17",
-      "gitref": "refs/tags/5.0.17",
-      "revision": "aa87e48c4d234bf3dba7e76e26dac973f3ae7243",
-      "url": "https://github.com/fcitx/fcitx5-lua/releases/tag/5.0.17"
-    },
-    "fcitx5-m17n": {
-      "version": "5.1.6",
-      "gitref": "refs/tags/5.1.6",
-      "revision": "afb4cba2c5d75d493ac03ad0ee4790ff7c14a078",
-      "url": "https://github.com/fcitx/fcitx5-m17n/releases/tag/5.1.6"
-    },
-    "fcitx5-qt": {
-      "version": "5.1.14",
-      "gitref": "refs/tags/5.1.14",
-      "revision": "6fc4fdd5216c0bab3ed269fa821d00fda2a1ef10",
-      "url": "https://github.com/fcitx/fcitx5-qt/releases/tag/5.1.14"
-    },
-    "fcitx5-rime": {
-      "version": "5.1.14",
-      "gitref": "refs/tags/5.1.14",
-      "revision": "c1974da96c15f4da628c1e5b2874f1fe1bb20b09",
-      "url": "https://github.com/fcitx/fcitx5-rime/releases/tag/5.1.14"
-    },
-    "fcitx5-table-extra": {
-      "version": "5.1.12",
-      "gitref": "refs/tags/5.1.12",
-      "revision": "bdeba2923df3e01643f2b14767987db29d75936f",
-      "url": "https://github.com/fcitx/fcitx5-table-extra/releases/tag/5.1.12"
-    },
-    "fcitx5-table-other": {
-      "version": "5.1.7",
-      "gitref": "refs/tags/5.1.7",
-      "revision": "6237e56795a8ba775be02857cd12da468885f144",
-      "url": "https://github.com/fcitx/fcitx5-table-other/releases/tag/5.1.7"
-    },
-    "fcitx5-unikey": {
       "version": "5.1.11",
       "gitref": "refs/tags/5.1.11",
-      "revision": "7fe9cd7971064ae8ca2fb90df76b44a72e415f3e",
-      "url": "https://github.com/fcitx/fcitx5-unikey/releases/tag/5.1.11"
+      "revision": "a9cd9daa71e7a9a36531bcbf73338aaa7227f448",
+      "url": "https://github.com/fcitx/fcitx5-hangul/releases/tag/5.1.11"
+    },
+    "fcitx5-kkc": {
+      "version": "5.1.11",
+      "gitref": "refs/tags/5.1.11",
+      "revision": "0c8f4be55c027683381807ed6290aed4e3215ea0",
+      "url": "https://github.com/fcitx/fcitx5-kkc/releases/tag/5.1.11"
+    },
+    "fcitx5-lua": {
+      "version": "5.0.18",
+      "gitref": "refs/tags/5.0.18",
+      "revision": "39763bd1745e7ee0aa958a1fcb21b9199de0995f",
+      "url": "https://github.com/fcitx/fcitx5-lua/releases/tag/5.0.18"
+    },
+    "fcitx5-m17n": {
+      "version": "5.1.7",
+      "gitref": "refs/tags/5.1.7",
+      "revision": "1c13c7fdc534b76f09db7ca33f9ad8d53d708131",
+      "url": "https://github.com/fcitx/fcitx5-m17n/releases/tag/5.1.7"
+    },
+    "fcitx5-qt": {
+      "version": "5.1.15",
+      "gitref": "refs/tags/5.1.15",
+      "revision": "d73fca6ef2dbd605da05dd4c1844e5bb2d91a5c5",
+      "url": "https://github.com/fcitx/fcitx5-qt/releases/tag/5.1.15"
+    },
+    "fcitx5-rime": {
+      "version": "5.1.15",
+      "gitref": "refs/tags/5.1.15",
+      "revision": "16e95d94d5d1b390fc55ee14429b5ffa3a0902db",
+      "url": "https://github.com/fcitx/fcitx5-rime/releases/tag/5.1.15"
+    },
+    "fcitx5-table-extra": {
+      "version": "5.1.13",
+      "gitref": "refs/tags/5.1.13",
+      "revision": "7c6955478bf821f20a19a8d1aae6fd2f50ba8471",
+      "url": "https://github.com/fcitx/fcitx5-table-extra/releases/tag/5.1.13"
+    },
+    "fcitx5-table-other": {
+      "version": "5.1.8",
+      "gitref": "refs/tags/5.1.8",
+      "revision": "4db66ac484ebba76bd4c2cc03f80f92b35778d2f",
+      "url": "https://github.com/fcitx/fcitx5-table-other/releases/tag/5.1.8"
+    },
+    "fcitx5-unikey": {
+      "version": "5.1.12",
+      "gitref": "refs/tags/5.1.12",
+      "revision": "304c1964552a01beb9fca1a55407fc091f14761c",
+      "url": "https://github.com/fcitx/fcitx5-unikey/releases/tag/5.1.12"
     },
     "ibus-libpinyin": {
       "version": "1.16.5",
