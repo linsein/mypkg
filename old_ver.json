@@ -73,10 +73,10 @@
       "url": "https://github.com/fcitx/fcitx5-qt/releases/tag/5.1.15"
     },
     "fcitx5-rime": {
-      "version": "5.1.15",
-      "gitref": "refs/tags/5.1.15",
-      "revision": "16e95d94d5d1b390fc55ee14429b5ffa3a0902db",
-      "url": "https://github.com/fcitx/fcitx5-rime/releases/tag/5.1.15"
+      "version": "5.1.16",
+      "gitref": "refs/tags/5.1.16",
+      "revision": "62990605fe4380060719f33ca3b13f077feb0565",
+      "url": "https://github.com/fcitx/fcitx5-rime/releases/tag/5.1.16"
     },
     "fcitx5-table-extra": {
       "version": "5.1.13",
